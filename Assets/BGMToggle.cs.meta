@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1f905a905b740b040a2d6c684411fbf9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - speakerOnSprite: {instanceID: 0}
+  - speakerOffSprite: {instanceID: 0}
+  - toggleButton: {instanceID: 0}
+  - clickSound: {fileID: 8300000, guid: 07d8fe90e032a1d4d9aa745a00a7957f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
